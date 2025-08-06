@@ -59,7 +59,7 @@ python manage.py shell
 Inside the shell:
 
 ```python
-from querymaze.import_data import import_data
+from querymaze.scripts.import_data import import_data
 import_data()
 ```
 
